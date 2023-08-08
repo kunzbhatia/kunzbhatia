@@ -1,10 +1,7 @@
-[![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunzbhatia)](https://github.com/kunzbhatia/github-readme-stats)
 ### Hi there 👋
 
-<!--
-**kunzbhatia/kunzbhatia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunzbhatia)](https://github.com/kunzbhatia/github-readme-stats)
+![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunzbhatia&show_icons=true&bg_color=00000000)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
