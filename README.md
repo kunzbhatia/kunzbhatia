@@ -1,3 +1,4 @@
+[![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunzbhatia)](https://github.com/kunzbhatia/github-readme-stats)
 ### Hi there 👋
 
 <!--
