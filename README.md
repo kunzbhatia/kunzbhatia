@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-[![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunzbhatia)](https://github.com/kunzbhatia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunzbhatia&layout=donut)](https://github.com/kunzbhatia/github-readme-stats)
+
 ![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunzbhatia&show_icons=true&bg_color=00000000)
+
+[![Project](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=kunzbhatia)](https://github.com/kunzbhatia/github-readme-stats)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
