@@ -23,7 +23,7 @@ Top Projects:
 
 ## Machine Learning/Deep Learning
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Heart-Disease-Prediction)](https://github.com/kunzbhatia/Heart-Disease-Prediction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Audizi-Emoplayer-Website)](https://github.com/kunzbhatia/Audizi-Emoplayer-Website)
+
 
 
 ## Database Management
