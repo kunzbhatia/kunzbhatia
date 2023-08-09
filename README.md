@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunzbhatia&layout=donut)](https://github.com/kunzbhatia/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunzbhatia&langs_count=6)
 
 Hi Everyone! Welcome to my world of computer science! I'm a passionate enthusiast with a stellar 96 percent score in my 12th science boards. I've conquered multiple entrance exams like JEE mains, JEE Advance, CET, VITEEE, KIITEE, BITSAT, MET, and more, with flying colors, securing a remarkable 99.31 in CET. I'm well-versed in programming languages such as C++, Java, and Python, and have explored Web Development and Machine Learning domains through exciting projects which you can explore in my repositaries.
 
@@ -14,17 +14,17 @@ Let's keep learning and growing together!
 
 Top Projects:
 ## Web Development
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Portfolio-Website)](https://github.com/kunzbhatia/github-readme-stats)
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Omnifood-Project)](https://github.com/kunzbhatia/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Portfolio-Website)](https://github.com/kunzbhatia/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Omnifood-Project)](https://github.com/kunzbhatia/github-readme-stats)
 
 ## Data Science/Analysis
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=kunzbhatia)](https://github.com/kunzbhatia/github-readme-stats)
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=kunzbhatia)](https://github.com/kunzbhatia/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=kunzbhatia)](https://github.com/kunzbhatia/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=kunzbhatia)](https://github.com/kunzbhatia/github-readme-stats)
 
 ## Machine Learning/Deep Learning
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Heart-Disease-Prediction)](https://github.com/kunzbhatia/github-readme-stats)
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Audizi-Emoplayer-Website)](https://github.com/kunzbhatia/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Heart-Disease-Prediction)](https://github.com/kunzbhatia/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Audizi-Emoplayer-Website)](https://github.com/kunzbhatia/github-readme-stats)
 
 
 ## Database Management
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Library-Management-System)](https://github.com/kunzbhatia/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Library-Management-System)](https://github.com/kunzbhatia/github-readme-stats)
