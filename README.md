@@ -14,17 +14,17 @@ Let's keep learning and growing together!
 
 Top Projects:
 ## Web Development
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Portfolio-Website)](https://github.com/kunzbhatia/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Omnifood-Project)](https://github.com/kunzbhatia/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Portfolio-Website)](https://github.com/kunzbhatia/Portfolio-Website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Omnifood-Project)](https://github.com/kunzbhatia/Omnifood-Project)
 
 ## Data Science/Analysis
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=kunzbhatia)](https://github.com/kunzbhatia/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=kunzbhatia)](https://github.com/kunzbhatia/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=kunzbhatia)](https://github.com/kunzbhatia/kunzbhatia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=kunzbhatia)](https://github.com/kunzbhatia/kunzbhatia)
 
 ## Machine Learning/Deep Learning
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Heart-Disease-Prediction)](https://github.com/kunzbhatia/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Audizi-Emoplayer-Website)](https://github.com/kunzbhatia/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Heart-Disease-Prediction)](https://github.com/kunzbhatia/Heart-Disease-Prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Audizi-Emoplayer-Website)](https://github.com/kunzbhatia/Audizi-Emoplayer-Website)
 
 
 ## Database Management
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Library-Management-System)](https://github.com/kunzbhatia/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Library-Management-System)](https://github.com/kunzbhatia/Library-Management-System)
