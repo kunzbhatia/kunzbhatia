@@ -19,10 +19,8 @@ Top Projects:
 
 ## Data Science/Analysis
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=kunzbhatia)](https://github.com/kunzbhatia/github-readme-stats)
-
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=kunzbhatia)](https://github.com/kunzbhatia/github-readme-stats)
 
 ## Machine Learning/Deep Learning
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=kunzbhatia)](https://github.com/kunzbhatia/github-readme-stats)
-
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=kunzbhatia)](https://github.com/kunzbhatia/github-readme-stats)
