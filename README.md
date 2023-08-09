@@ -15,7 +15,7 @@ Let's keep learning and growing together!
 Top Projects:
 ## Web Development
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Portfolio-Website)](https://github.com/kunzbhatia/github-readme-stats)
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Omnifood-Website)](https://github.com/kunzbhatia/github-readme-stats)
+[![Project](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=Omnifood-Project)](https://github.com/kunzbhatia/github-readme-stats)
 
 ## Data Science/Analysis
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=kunzbhatia&repo=kunzbhatia)](https://github.com/kunzbhatia/github-readme-stats)
