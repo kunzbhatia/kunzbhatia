@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunzbhatia&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunzbhatia&langs_count=7)
 
 Hi Everyone! Welcome to my world of computer science! I'm a passionate enthusiast with a stellar 96 percent score in my 12th science boards. I've conquered multiple entrance exams like JEE mains, JEE Advance, CET, VITEEE, KIITEE, BITSAT, MET, and more, with flying colors, securing a remarkable 99.31 in CET. I'm well-versed in programming languages such as C++, Java, and Python, and have explored Web Development and Machine Learning domains through exciting projects which you can explore in my repositaries.
 
